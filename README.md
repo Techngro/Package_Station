@@ -1,2 +1,3 @@
-# Package_Station
-Placeholder web page for Package Station 
+# Welcome to your Package Station
+
+Press 'Live View' for camera feed
